@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cooperations on Российско-китайская торговля</title>
+    <link>http://localhost:1313/cooperation/</link>
+    <description>Recent content in Cooperations on Российско-китайская торговля</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 22 Mar 2024 21:23:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/cooperation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сотрудничество</title>
+      <link>http://localhost:1313/cooperation/%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</link>
+      <pubDate>Fri, 22 Mar 2024 21:23:45 +0800</pubDate>
+      <guid>http://localhost:1313/cooperation/%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</guid>
+      <description> процесс сотрудничества graph TD; A[Бизнес-переговоры] --&gt; B[Определение потребностей в закупках]; B --&gt; C[Клиент размещает заказ]; C --&gt;|Оплата 30% задатка| D[Утверждение заказа на производство]; D --&gt;|Заказ на производство| E(Производство товара); E --&gt; F{Производство завершено?}; F --&gt;|Да| G[Запрос на оплату оставшейся суммы]; F --&gt;|Нет| E; G --&gt; H[Клиент оплачивает оставшуюся сумму]; H --&gt;|Подтверждение получения платежа| I[Отгрузка товара]; I --&gt; J[Транспортировка]; J --&gt; K[Клиент получает товар]; K --&gt; L[Завершение сделки]; адрес </description>
+    </item>
+  </channel>
+</rss>

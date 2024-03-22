@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Все Статьи - Российско-китайская торговля</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Все Статьи | Российско-китайская торговля</description>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Fri, 22 Mar 2024 20:58:19 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Сотрудничество</title>
+    <link>http://localhost:1313/%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</link>
+    <pubDate>Fri, 22 Mar 2024 20:58:19 &#43;0800</pubDate><author>
+        <name>Fan</name>
+    </author><guid>http://localhost:1313/%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/</guid>
+    <description><![CDATA[3232432443432432]]></description>
+</item></channel>
+</rss>

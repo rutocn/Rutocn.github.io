@@ -16,7 +16,7 @@
 {{< friend "Leapmotor" "/auto/car-brands/leapmotor/" "/images/auto/Leapmotor.webp" "Leapmotor" >}}
 {{< friend "Honda" "/auto/car-brands/honda/" "/images/auto/Honda.webp" "Honda" >}}
 {{< friend "GreatWallMotors" "/auto/car-brands/greatwallmotors/" "/images/auto/GreatWallMotors.webp" "GreatWallMotors" >}}
-{{< friend "Buick" "/auto/car-brands/nuick/" "/images/auto/Buick.webp" "Buick" >}}
+{{< friend "Buick" "/auto/car-brands/buick/" "/images/auto/Buick.webp" "Buick" >}}
 {{< friend "Cadillac" "/auto/car-brands/cadillac/" "/images/auto/Cadillac.webp" "Cadillac" >}}
 {{< friend "Nissan" "/auto/car-brands/nissan/" "/images/auto/Nissan.webp" "Nissan" >}}
 {{< friend "Wuling" "/auto/car-brands/wuling/" "/images/auto/Wuling.webp" "Wuling" >}}

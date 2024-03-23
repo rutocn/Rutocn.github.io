@@ -10,34 +10,34 @@
 Вы можете использовать ⬅️ и ➡️ на клавиатуре, чтобы прокрутить и увидеть всю таблицу! Если вы используете телефон, просто пролистывайте влево и вправо пальцем, чтобы увидеть всю таблицу!
 {{< /admonition >}}
 
-{{< friend "Lexus" "/auto/car-brands/Lexus" "/images/auto/Lexus.webp" "Lexus" >}}
-{{< friend "Mazda" "/auto/car-brands/Mazda" "/images/auto/Mazda.webp" "Mazda" >}}
-{{< friend "Jaguar" "/auto/car-brands/Jaguar" "/images/auto/Jaguar.webp" "Jaguar" >}}
-{{< friend "Leapmotor" "/auto/car-brands/Leapmotor" "/images/auto/Leapmotor.webp" "Leapmotor" >}}
-{{< friend "Honda" "/auto/car-brands/Honda" "/images/auto/Honda.webp" "Honda" >}}
-{{< friend "GreatWallMotors" "/auto/car-brands/GreatWallMotors" "/images/auto/GreatWallMotors.webp" "GreatWallMotors" >}}
-{{< friend "Buick" "/auto/car-brands/Buick" "/images/auto/Buick.webp" "Buick" >}}
-{{< friend "Cadillac" "/auto/car-brands/Cadillac" "/images/auto/Cadillac.webp" "Cadillac" >}}
-{{< friend "Nissan" "/auto/car-brands/Nissan" "/images/auto/Nissan.webp" "Nissan" >}}
-{{< friend "Wuling" "/auto/car-brands/Wuling" "/images/auto/Wuling.webp" "Wuling" >}}
-{{< friend "Tank" "/auto/car-brands/Tank" "/images/auto/Tank.webp" "Tank" >}}
-{{< friend "Hyundai" "/auto/car-brands/Hyundai" "/images/auto/Hyundai.webp" "Hyundai" >}}
-{{< friend "Hongqi" "/auto/car-brands/Hongqi" "/images/auto/Hongqi.webp" "Hongqi" >}}
-{{< friend "Mercedes" "/auto/car-brands/Mercedes" "/images/auto/Mercedes.webp" "Mercedes" >}}
-{{< friend "LandRover" "/auto/car-brands/LandRover" "/images/auto/Land Rover.webp" "LandRover" >}}
-{{< friend "Ford" "/auto/car-brands/Ford" "/images/auto/Ford.webp" "Ford" >}}
-{{< friend "BYD" "/auto/car-brands/BYD" "/images/auto/BYD.webp" "BYD" >}}
-{{< friend "Changan" "/auto/car-brands/Changan" "/images/auto/Changan.webp" "Changan" >}}
-{{< friend "Volkswagen" "/auto/car-brands/Volkswagen" "/images/auto/Volkswagen.webp" "Volkswagen" >}}
-{{< friend "LiXiang" "/auto/car-brands/LiXiang" "/images/auto/LiXiang.webp" "LiXiang" >}}
-{{< friend "Toyota" "/auto/car-brands/Toyota" "/images/auto/Toyota.webp" "Toyota" >}}
-{{< friend "Audi" "/auto/car-brands/Audi" "/images/auto/Audi.webp" "Audi" >}}
-{{< friend "Porsche" "/auto/car-brands/Porsche" "/images/auto/Porsche.webp" "Porsche" >}}
-{{< friend "BMW" "/auto/car-brands/BMW" "/images/auto/BMW.webp" "BMW" >}}
-{{< friend "Tesla" "/auto/car-brands/Tesla" "/images/auto/Tesla.webp" "Tesla" >}}
-{{< friend "LYNK-CO" "/auto/car-brands/LYNK-CO" "/images/auto/Lynk & Co.webp" "LYNK-CO" >}}
-{{< friend "Volvo" "/auto/car-brands/Volvo" "/images/auto/Volvo.webp" "Volvo" >}}
-{{< friend "Chery" "/auto/car-brands/Chery" "/images/auto/Chery.webp" "Chery" >}}
-{{< friend "NIO" "/auto/car-brands/NIO" "/images/auto/NIO.webp" "NIO" >}}
-{{< friend "Geely" "/auto/car-brands/Geely" "/images/auto/Geely.webp" "Geely" >}}
+{{< friend "Lexus" "/auto/car-brands/lexus/" "/images/auto/Lexus.webp" "Lexus" >}}
+{{< friend "Mazda" "/auto/car-brands/mazda/" "/images/auto/Mazda.webp" "Mazda" >}}
+{{< friend "Jaguar" "/auto/car-brands/jaguar/" "/images/auto/Jaguar.webp" "Jaguar" >}}
+{{< friend "Leapmotor" "/auto/car-brands/leapmotor/" "/images/auto/Leapmotor.webp" "Leapmotor" >}}
+{{< friend "Honda" "/auto/car-brands/honda/" "/images/auto/Honda.webp" "Honda" >}}
+{{< friend "GreatWallMotors" "/auto/car-brands/greatwallmotors/" "/images/auto/GreatWallMotors.webp" "GreatWallMotors" >}}
+{{< friend "Buick" "/auto/car-brands/nuick/" "/images/auto/Buick.webp" "Buick" >}}
+{{< friend "Cadillac" "/auto/car-brands/cadillac/" "/images/auto/Cadillac.webp" "Cadillac" >}}
+{{< friend "Nissan" "/auto/car-brands/nissan/" "/images/auto/Nissan.webp" "Nissan" >}}
+{{< friend "Wuling" "/auto/car-brands/wuling/" "/images/auto/Wuling.webp" "Wuling" >}}
+{{< friend "Tank" "/auto/car-brands/tank/" "/images/auto/Tank.webp" "Tank" >}}
+{{< friend "Hyundai" "/auto/car-brands/hyundai/" "/images/auto/Hyundai.webp" "Hyundai" >}}
+{{< friend "Hongqi" "/auto/car-brands/hongqi/" "/images/auto/Hongqi.webp" "Hongqi" >}}
+{{< friend "Mercedes" "/auto/car-brands/mercedes/" "/images/auto/Mercedes.webp" "Mercedes" >}}
+{{< friend "LandRover" "/auto/car-brands/landrover/" "/images/auto/Land Rover.webp" "LandRover" >}}
+{{< friend "Ford" "/auto/car-brands/ford/" "/images/auto/Ford.webp" "Ford" >}}
+{{< friend "BYD" "/auto/car-brands/byd/" "/images/auto/BYD.webp" "BYD" >}}
+{{< friend "Changan" "/auto/car-brands/changan/" "/images/auto/Changan.webp" "Changan" >}}
+{{< friend "Volkswagen" "/auto/car-brands/volkswagen/" "/images/auto/Volkswagen.webp" "Volkswagen" >}}
+{{< friend "LiXiang" "/auto/car-brands/lixiang/" "/images/auto/LiXiang.webp" "LiXiang" >}}
+{{< friend "Toyota" "/auto/car-brands/toyota/" "/images/auto/Toyota.webp" "Toyota" >}}
+{{< friend "Audi" "/auto/car-brands/audi/" "/images/auto/Audi.webp" "Audi" >}}
+{{< friend "Porsche" "/auto/car-brands/porsche/" "/images/auto/Porsche.webp" "Porsche" >}}
+{{< friend "BMW" "/auto/car-brands/bmw/" "/images/auto/BMW.webp" "BMW" >}}
+{{< friend "Tesla" "/auto/car-brands/tesla/" "/images/auto/Tesla.webp" "Tesla" >}}
+{{< friend "LYNK-CO" "/auto/car-brands/lynk-co/" "/images/auto/Lynk & Co.webp" "LYNK-CO" >}}
+{{< friend "Volvo" "/auto/car-brands/volvo/" "/images/auto/Volvo.webp" "Volvo" >}}
+{{< friend "Chery" "/auto/car-brands/chery/" "/images/auto/Chery.webp" "Chery" >}}
+{{< friend "NIO" "/auto/car-brands/nio/" "/images/auto/NIO.webp" "NIO" >}}
+{{< friend "Geely" "/auto/car-brands/geely/" "/images/auto/Geely.webp" "Geely" >}}
 

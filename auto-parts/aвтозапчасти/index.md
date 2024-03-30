@@ -11,23 +11,19 @@
 {{< /admonition >}}
 
 
-{{< friend "Volkswagen" "/auto-parts/brands/Volkswagen/""/images/auto/Volkswagen.webp" "Volkswagen" >}}
-{{< friend "Hyundai" "/auto-parts/brands/Hyundai/""/images/auto/Hyundai.webp" "Hyundai" >}}
-{{< friend "Fiat" "/auto-parts/brands/Fiat/""/images/auto/Fiat.webp" "Fiat" >}}
-{{< friend "Renault" "/auto-parts/brands/Renault/""/images/auto/Renault.webp" "Renault" >}}
-{{< friend "Peugeot" "/auto-parts/brands/Peugeot/""/images/auto/Peugeot.webp" "Peugeot" >}}
-{{< friend "Citroen" "/auto-parts/brands/Citroen/""/images/auto/Citroen.webp" "Citroen" >}}
-{{< friend "Nissan" "/auto-parts/brands/Nissan/""/images/auto/Nissan.webp" "Nissan" >}}
-{{< friend "Toyota" "/auto-parts/brands/Toyota/""/images/auto/Toyota.webp" "Toyota" >}}
-{{< friend "Ford" "/auto-parts/brands/Ford/""/images/auto/Ford.webp" "Ford" >}}
-{{< friend "Chevrolet" "/auto-parts/brands/Chevrolet/""/images/auto/Chevrolet.webp" "Chevrolet" >}}
-{{< friend "Subaru" "/auto-parts/brands/Subaru/""/images/auto/Subaru.webp" "Subaru" >}}
-{{< friend "KIA" "/auto-parts/brands/KIA/""/images/auto/KIA.webp" "KIA" >}}
+{{< friend "Volkswagen" "/auto-parts/brands/volkswagen/""/images/auto/Volkswagen.webp" "Volkswagen" >}}
+{{< friend "Hyundai" "/auto-parts/brands/hyundai/""/images/auto/Hyundai.webp" "Hyundai" >}}
+{{< friend "Fiat" "/auto-parts/brands/fiat/""/images/auto/Fiat.webp" "Fiat" >}}
+{{< friend "Renault" "/auto-parts/brands/renault/""/images/auto/Renault.webp" "Renault" >}}
+{{< friend "Peugeot" "/auto-parts/brands/peugeot/""/images/auto/Peugeot.webp" "Peugeot" >}}
+{{< friend "Citroen" "/auto-parts/brands/citroen/""/images/auto/Citroen.webp" "Citroen" >}}
+{{< friend "Nissan" "/auto-parts/brands/nissan/""/images/auto/Nissan.webp" "Nissan" >}}
+{{< friend "Toyota" "/auto-parts/brands/toyota/""/images/auto/Toyota.webp" "Toyota" >}}
+{{< friend "Ford" "/auto-parts/brands/ford/""/images/auto/Ford.webp" "Ford" >}}
+{{< friend "Chevrolet" "/auto-parts/brands/chevrolet/""/images/auto/Chevrolet.webp" "Chevrolet" >}}
+{{< friend "Subaru" "/auto-parts/brands/subaru/""/images/auto/Subaru.webp" "Subaru" >}}
+{{< friend "KIA" "/auto-parts/brands/kia/""/images/auto/KIA.webp" "KIA" >}}
 {{< friend "BYD" "/auto-parts/brands/byd/" "/images/auto/BYD.webp" "BYD" >}}
 {{< friend "Chery" "/auto-parts/brands/chery/" "/images/auto/Chery.webp" "Chery" >}}
 {{< friend "GreatWallMotors" "/auto-parts/brands/greatwallmotors/" "/images/auto/GreatWallMotors.webp" "GreatWallMotors" >}}
-{{< friend "Fiat" "/auto-parts/brands/Fiat/" "/images/auto/Fiat.webp" "Fiat" >}}
-{{< friend "Peugeot" "/auto-parts/brands/Peugeot/" "/images/auto/Peugeot.webp" "Peugeot" >}}
-{{< friend "Citroe" "/auto-parts/brands/Citroe/" "/images/auto/Citroe.webp" "Citroe" >}}
-{{< friend "Toyota" "/auto-parts/brands/toyota/" "/images/auto/Toyota.webp" "Toyota" >}}
 
